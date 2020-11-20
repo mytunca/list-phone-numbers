@@ -15,3 +15,22 @@ All you need is:
 That is all. 
 
 p.s. Google will request you one time only to authorize the code to access to your contacts and spreadsheets. This is because you are who wrote the code and Google does not warrant that the code is secure.
+
+======================================================
+
+Google Kişiler'e kayıtlı kişilerinizi Google Tablolar'a aktarma
+
+Merhaba, bu Github'daki ilk kodum.
+Bu kodu kullanarak tüm kişi listenizi Google Tablolar üzerindeki bir tabloya aktarabilirsiniz.
+
+Yapmanız gerekenler:
+- kodu kopyalayın
+- Google Tablolar'da yeni bir tablo oluşturun
+- Araçlar > Komut Dosyası Düzenleyici'yi tıklayın
+- açılan kod sayfasında yazan herşeyi silin
+- kopyaladığınız kodu bu sayfaya yapıştırın ve kaydedin
+- kodu çalıştırın
+
+Bu kadar.
+
+Not: Google bir kereye mahsus kodun, kişilerinize ve e-tablolarınıza erişmesine izin vermenizi isteyecek. Çekinmeden izin verebilirsiniz.
