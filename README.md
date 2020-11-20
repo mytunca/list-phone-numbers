@@ -34,3 +34,4 @@ Yapmanız gerekenler:
 Bu kadar.
 
 Not: Google bir kereye mahsus kodun, kişilerinize ve e-tablolarınıza erişmesine izin vermenizi isteyecek. Çekinmeden izin verebilirsiniz.
+Kod sizin kendi kişilerinize erişip oradan alacağı bilgiyi yine sizin tablonuza yazacak.
