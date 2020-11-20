@@ -18,7 +18,7 @@ p.s. Google will request you one time only to authorize the code to access to yo
 
 ======================================================
 
-Google Kişiler'e kayıtlı telefon numaralarını Google Tablolar'a aktarma
+Google Kişiler'deki kişilerinizin telefon numaralarını Google Tablolar'a aktarma
 
 Merhaba, bu Github'daki ilk kodum.
 Bu kodu kullanarak kişi listenizdeki telefon numarası içeren kişilerinizi Google Tablolar üzerindeki bir tabloya aktarabilirsiniz.
