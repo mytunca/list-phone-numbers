@@ -16,6 +16,9 @@ function myFunction() {
       
     };
   })
-  
-  ws.getRange(2, 2, array.length, 2).setValues(array);  // write the array to spreadsheet
+ 
+  ws.getRange("B:C").clear()
+  ws.getRange(1, 2, 1, 2).setValues([["Name","Number"]]).setBackground("orange").setFontWeight("bold").setHorizontalAlignment("center")
+  ws.getRange(2, 2, array.length, 2).setValues(array).setBackgroundRGB(255,242,204).setHorizontalAlignment("left");
+  ws.autoResizeColumns(2, 2)
 }
