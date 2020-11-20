@@ -1,8 +1,8 @@
-# list-contacts
-Write your contacts in Google to a Google Spreadsheet by using Google Apps Script
+# List Your Phone Numbers
+Write your phone numbers in Google Contacts to a Google Spreadsheet
 
 Hello! This is my first code in Github.
-This short code allows you to get a list of your contacts from Google Contacts and write it to a spreadsheet.
+This short code allows you to get a list of your contacts who have a phone number from Google Contacts and write it to a spreadsheet.
 
 All you need is:
 - to copy the code,
@@ -18,10 +18,10 @@ p.s. Google will request you one time only to authorize the code to access to yo
 
 ======================================================
 
-Google Kişiler'e kayıtlı kişilerinizi Google Tablolar'a aktarma
+Google Kişiler'e kayıtlı telefon numaralarını Google Tablolar'a aktarma
 
 Merhaba, bu Github'daki ilk kodum.
-Bu kodu kullanarak tüm kişi listenizi Google Tablolar üzerindeki bir tabloya aktarabilirsiniz.
+Bu kodu kullanarak kişi listenizdeki telefon numarası içeren kişilerinizi Google Tablolar üzerindeki bir tabloya aktarabilirsiniz.
 
 Yapmanız gerekenler:
 - kodu kopyalayın
